@@ -30,7 +30,7 @@ Connect to MySQL and create the database:
 
 Create your database and user.
 
-Create a table "employees"  with 4 fields :-
+Create a table "employees"  with 5 fields :-
 
 id - set as not null primary key and auto_increment
 name
