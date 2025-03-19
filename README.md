@@ -40,7 +40,12 @@ salary
 
 You can now use the API to interact with the database!
 
-5. Start the Node server
+5. Set the credentials in .env file :-
+
+mv .env.template .env
+Edit credentials.
+
+6. Start the Node server
 
 node server.js
 
